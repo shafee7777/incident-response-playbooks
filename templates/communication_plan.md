@@ -27,3 +27,22 @@ Define how internal and external communication is handled during security incide
 ## Message Templates
 
 ### Initial Notification
+## Message Templates
+
+Incident detected: <type>  
+Affected systems: <systems>  
+Team is investigating. Updates in <time window>.  
+
+---
+
+### Containment Update
+
+Containment actions implemented: <actions>  
+Impact reduced. Further eradication in progress.  
+
+---
+
+### Resolution
+
+Incident resolved. Root cause identified: <cause>  
+Final report will be distributed by <date>.  
