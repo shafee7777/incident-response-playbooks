@@ -27,7 +27,6 @@ Define how internal and external communication is handled during security incide
 ## Message Templates
 
 ### Initial Notification
-## Message Templates
 
 Incident detected: <type>  
 Affected systems: <systems>  
